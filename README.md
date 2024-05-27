@@ -1,6 +1,10 @@
+# Pokemon Character Generator
+
+Created a pokemon character generator by fetching API from "https://pokeapi.co/api/v2/pokemon/" 
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. 
 
 Currently, two official plugins are available:
 
